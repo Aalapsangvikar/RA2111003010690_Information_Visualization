@@ -47,6 +47,6 @@ Feel free to adapt and build upon our work as needed. If you have any questions 
 
 For any inquiries, please contact:
 
-Your Name: [Your Email Address](mailto:aalapsangvikar0@gmail.com)
+Your Name: [My email address](mailto:aalapsangvikar0@gmail.com)
 
 We appreciate your interest in our project! Thank you for visiting my repository.
